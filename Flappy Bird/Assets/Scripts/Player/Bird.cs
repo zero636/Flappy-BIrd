@@ -16,6 +16,12 @@ public class Bird : MonoBehaviour
         _birdMover = GetComponent<BirdMover>();
     }
 
+
+    public void IncreaseScore()
+    {
+        score++;
+    }
+    
     public void ResetPlayer()
     {
         score = 0;
