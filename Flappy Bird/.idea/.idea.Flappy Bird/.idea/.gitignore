@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Flappy Bird.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\korij\Desktop\Flappy Bird\Flappy-Bird\Flappy Bird\.idea\.idea.Flappy Bird\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
